@@ -42,6 +42,4 @@ This dashboard shows the labelled vaults and total transfers by these vaults. It
 
 ## Screenshots
 
-<img width="1575" alt="image" src="https://user-images.githubusercontent.com/72612765/174494628-7ea996d9-c10a-4680-abd9-bc71d69b59ff.png">
-
-![image](https://user-images.githubusercontent.com/72612765/174494660-24211ac0-f92d-4c27-91df-79388f549740.png)
+![image](https://github.com/techsavage18/Kintsugi-Polkadot/assets/122214438/93925e1f-6c47-4406-bd78-50f53f703f8b)
