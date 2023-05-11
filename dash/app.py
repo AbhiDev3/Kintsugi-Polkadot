@@ -118,7 +118,7 @@ app.layout = html.Div(
                                     style={"margin-bottom": "0px"},
                                 ),
                                 html.H5(
-                                    "AmsterDOT hackathon bounty", style={"margin-top": "0px"}
+                                    "PolkadotHack", style={"margin-top": "0px"}
                                 ),
                             ]
                         )
