@@ -4,6 +4,9 @@ This is a dashboard visualization of the squid created for tracking Kintsugi vau
 
 ## Getting Started
 
+### Video Demo:
+https://clipchamp.com/watch/BQg0UVDT6dC
+
 ### Running the app locally
 
 Clone the repo to a local directory.
